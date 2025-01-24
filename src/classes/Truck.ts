@@ -62,9 +62,9 @@ class Truck extends Vehicle {
     let make = vehicle.make
     let model = vehicle.model
     if (vehicle.weight <= this.towingCapacity) {
-      console.log(`${this.make} ${this.model} is being towed`)
+      console.log(`${make} ${model} is being towed`)
     } else {
-      console.log(`${this.make} ${this.model} is too heavy to be towed`)
+      console.log(`${make} ${model} is too heavy to be towed`)
     }
 
     // TODO: Get the make an model of the vehicle if it exists
