@@ -18,7 +18,7 @@ I created a vehicle builder that can create or choose existing vehicles. Your se
 I installed the inquirers package, used npm init, and npm i.
 
 ## Usage
-I will provide a video link demonstrating how to generate a vehicle and perform actions here:
+I will provide a video link demonstrating how to generate a vehicle and perform actions here: https://www.youtube.com/watch?v=paTNqBszva0
 
 ## License
 This project is licensed under the None license.
